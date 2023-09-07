@@ -1,4 +1,4 @@
 # singhalok
 this is my first repository
 <br>
-author - Alok Singh
+Author - Alok Singh( B.tech C.S.E) 
